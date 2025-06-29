@@ -1,0 +1,3 @@
+/home/devhimal/Projects/data-structure/warehouse-management-system/build/CMakeFiles/warehouse.dir
+/home/devhimal/Projects/data-structure/warehouse-management-system/build/CMakeFiles/edit_cache.dir
+/home/devhimal/Projects/data-structure/warehouse-management-system/build/CMakeFiles/rebuild_cache.dir
